@@ -19,25 +19,17 @@ The front-end is a static site with HTML, CSS, and JavaScript. It's static and h
 
 - [Azure storage explorer] is a handy tool to use when working with Storage Accounts
 - This is how you can [deploy static site to blob storage.]
+
+
+how our online resume looks like
+![Screenshot (305)](https://user-images.githubusercontent.com/94070396/151171766-7755eae9-9eee-4503-8892-235471cf1f82.png)
+![Screenshot (306)](https://user-images.githubusercontent.com/94070396/151172016-510bfc5a-0d9a-4476-8b13-bff6fa1c5e20.png)
+![Screenshot (307)](https://user-images.githubusercontent.com/94070396/151172022-a437a751-21a1-40e9-85c3-4138b35ede27.png)
+![Screenshot (308)](https://user-images.githubusercontent.com/94070396/151172029-8ee939a3-5dea-49c9-9613-1fa8dbbe0e90.png)
+![Screenshot (309)](https://user-images.githubusercontent.com/94070396/151172034-b0f00bb8-9752-424a-bd4c-c7ef189f1dee.png)
   
-## Back-end resources
 
-The back-end is an [HTTP triggered] Azure Functions with Cosmos DB input and output binding. The Function is triggered, it retrieves the CosmosDB item, add +1 to it, and saves it and returns its value to the caller.
 
-- [Prerequisites for developing functions with visual code locally.]
-- [Create a Cosmos DB account via command line] or [from the portal].
-- [Create an HTTP triggered Azure Function in Visual Studio Code.]
-- [Azure Functions Cosmos DB bindings]
-- [Retrieve a Cosmos DB item with Functions binding.]
-- [Write to a Cosmos DB item with Functions binding.]
-- You'll have to [enable CORS with Azure Functions] for you website to be able to call it.
-
-## Testing Resources
-
-- [Testing is important.]
-- [Getting Started with xUnit.net.]
-- [How to setup Xunit with Azure Functions.]
-- [Testing Azure Functions.]
-  
+and this will help without carrying the hard copy of your resume it will directly go to browser and just put link you will get your resume
 
 
