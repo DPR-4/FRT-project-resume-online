@@ -39,9 +39,5 @@ The back-end is an [HTTP triggered] Azure Functions with Cosmos DB input and out
 - [How to setup Xunit with Azure Functions.]
 - [Testing Azure Functions.]
   
-## CI/CD Resources
 
-- This is how you can deploy a blob storage static site with Used in frontend.main.yml.
-- This is how you can deploy an [Azure Function to Azure with GitHub Actions.] Used in backend.main.yml
-- [Implement .NET testing in GitHub Actions.]
 
