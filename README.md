@@ -15,7 +15,7 @@
 
 ## Front-end resources
 
-The front-end is a static site with HTML, CSS, and JavaScript. It's static and has a visitor counter. The visitor counter data fetched via an API call to an Azure Function.
+The front-end is a static site with HTML, CSS, and JavaScript. It's static..
 
 - [Azure storage explorer] is a handy tool to use when working with Storage Accounts
 - This is how you can [deploy static site to blob storage.]
